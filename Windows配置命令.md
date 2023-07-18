@@ -19,3 +19,6 @@ msconfig-----系统配置（含启动项）
 regedt32-------注册表编辑器
 
 certmgr.msc----证书管理实用程序
+
+
+mstsc.exe-----Microsoft terminal services client    建与终端服务器或其他远程计算机的连接，编辑现有“远程桌面连接(.rdp)”配置文件
